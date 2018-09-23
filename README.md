@@ -1,5 +1,2 @@
 # README
 
-## collaboraters
-
-    - Omar
